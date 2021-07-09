@@ -11,7 +11,10 @@ const isLoggedOut = require("../middleware/isLoggedOut");
 const isLoggedIn = require("../middleware/isLoggedIn");
 
 
-// routes go here:
+// deploy to Heroku
+
+// routes go here
+
 
 //User profile
 
