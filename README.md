@@ -13,10 +13,10 @@
 
 ## Screenshots
 
-**Intro Page**
+<h4 align="center">Intro Page</h4>
 <img src="https://user-images.githubusercontent.com/83708369/137113679-e60ff6b7-5f0e-47ea-9251-bb92cd723efc.png">
 
-**Professional SignUp**
+<h4 align="center">Professional SignUp</h4>
 <img src="https://user-images.githubusercontent.com/83708369/137113812-727fe407-6b25-4392-963b-6cd85900281d.png">
 
 ## Built With
